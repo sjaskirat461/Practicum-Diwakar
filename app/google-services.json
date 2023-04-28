@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997090848155",
+    "project_id": "agromart-27dc2",
+    "storage_bucket": "agromart-27dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997090848155:android:2dbaa974a4c84747fa853e",
+        "android_client_info": {
+          "package_name": "com.example.agromart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997090848155-c2p4g98g1cjrvj7jdjh5qk6k8ce1697a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agromart",
+            "certificate_hash": "c585a6c5529db05e1a421c20774218fb1fc92031"
+          }
+        },
+        {
+          "client_id": "997090848155-f0f6u4tkej9dvr0l6l5a2hnuk01fn7gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq3DriSDbEYmW1BdiJBUhsw2VzvRRoirw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997090848155-f0f6u4tkej9dvr0l6l5a2hnuk01fn7gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

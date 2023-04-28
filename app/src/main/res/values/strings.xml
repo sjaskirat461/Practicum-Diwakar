@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AgroMart</string>
+    <string name="appName">Agro Mart</string>
+    <string name="tagLine">You get all what you need here \n\n Just raise the best crops</string>
+    <string name="chooseIdentityHeading">Select who do\nyou want to be</string>
+    <string name="logoDesc">ApplicationLogo</string>
+    <string name="buyerIcon">buyerIcon</string>
+    <string name="sellerIcon">sellerIcon</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="chooseCategoryHead">Choose\nCategory</string>
+    <string name="categoryHint">(of the product to be sold…)</string>
+    <string name="seeds">Seeds</string>
+    <string name="fertilizer">Fertilizers</string>
+    <string name="tools">Tools</string>
+    <string name="gears">Protective Gears</string>
+    <string name="prodDesc">Product Description</string>
+    <string name="typeHint">ProductType</string>
+    <string name="nameHint">ProductName</string>
+    <string name="prodIdHint">ProductId</string>
+    <string name="quantityHint">Quantity</string>
+    <string name="mfdHint">MFD</string>
+    <string name="expiryHint">Expiry</string>
+    <string name="descHint">Description</string>
+    <string name="priceHint">Price (INR)</string>
+    <string name="submitBtn">Submit</string>
+    <string name="loginUserHint">UserName</string>
+    <string name="loginPhoneHint">Phone Number</string>
+    <string name="loginPassHint">Password</string>
+    <string name="loginPageBottomText">New to AgroMart ?</string>
+    <string name="signUp">Sign-Up</string>
+    <string name="login">Log-In</string>
+    <string name="signUpHead">Sign-Up / Create Profile</string>
+    <string name="signUserHint">User Name</string>
+    <string name="signDobHint">Date of Birth (dd/mm/yyyy)</string>
+    <string name="signAgeHint">Age</string>
+    <string name="signGenderHint">Gender</string>
+    <string name="signPhoneHint">Phone Number</string>
+    <string name="signAddressHint">Address</string>
+    <string name="signEmailHint">Email Id</string>
+    <string name="signPassHint">Create Password</string>
+    <string name="signupHeadLoginMsg">Already Have an Account ?</string>
+    <string name="accCreation">Account Created\nSuccessfully !!\n\nNew User Added</string>
+    <string name="profile">Profile</string>
+    <string name="logOut">Log-Out</string>
+    <string name="dashboardHead">Dashboard</string>
+    <string name="qanda">Q &amp; A section</string>
+    <string name="season">Weather Report</string>
+    <string name="store">Shop</string>
+    <string name="cart">My Cart</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="gender_options">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
